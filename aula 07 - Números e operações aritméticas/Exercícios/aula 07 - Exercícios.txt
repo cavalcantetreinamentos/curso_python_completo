@@ -1,0 +1,43 @@
+1) Peça o usuário para digitar 4 notas e retorne a média aritmética das notas.
+	Resolvido na vídeo aula-07
+
+2) Faça um programa que converta metros para centímetros. Peça o usuário para digitar o comprimento em metros.
+	Resolvido na vídeo aula-07
+
+3) Calcule  a área de um retângulo. Peça o usuário para entrar com os valores de comprimento e largura e depois retorne com o resultado.
+
+4) Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
+5) Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+
+6) Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) – 58
+
+7) Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que motre:
+	1 - salário bruto.
+	2 - quanto pagou ao INSS.
+	3- quanto pagou ao sindicato.
+	4 - o salário líquido.
+
+Calcule os descontos e o salário líquido, conforme a tabela abaixo
+
++ Salário Bruto: R$
+- IR (11%): R$
+- INSS (8%): R$
+- Sindicato (5%): R$
+= Salário Líquido: R$
+
+8) Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+
+9) Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+
+10) Peça o usuário para informar o valor inicial de um investimento, o tempo da aplicação (em anos), a taxa anual (em percentual, exemplo, 5, 8, 12) e o valor dos aportes mensais durante todo o período do investimento. 
+Calcule o total que será recebido pelo investidor ao final da aplicação.  Utilize a fórmula abaixo:
+
+FV = (PV *(1+i)^n) + (( PMT * [(1+i)^n - 1]) / i)
+
+FV = Total a ser recebido no final da aplicação
+PV = Valor inicial do investimento
+PMT = Aportes mensais
+i = Taxa de Juros anual
+n = Tempo da aplicação
+
