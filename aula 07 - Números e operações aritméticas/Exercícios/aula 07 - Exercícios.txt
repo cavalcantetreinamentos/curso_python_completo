@@ -1,43 +1,49 @@
-1) PeÁa o usu·rio para digitar 4 notas e retorne a mÈdia aritmÈtica das notas.
-	Resolvido na vÌdeo aula-07
+1) Pe√ßa o usu√°rio para digitar 4 notas e retorne a m√©dia aritm√©tica das notas.
+	Resolvido na v√≠deo aula-07
 
-2) FaÁa um programa que converta metros para centÌmetros. PeÁa o usu·rio para digitar o comprimento em metros.
-	Resolvido na vÌdeo aula-07
+2) Fa√ßa um programa que converta metros para cent√≠metros. Pe√ßa o usu√°rio para digitar o comprimento em metros.
+	Resolvido na v√≠deo aula-07
 
-3) Calcule  a ·rea de um ret‚ngulo. PeÁa o usu·rio para entrar com os valores de comprimento e largura e depois retorne com o resultado.
+3) Calcule  a √°rea de um ret√¢ngulo. Pe√ßa o usu√°rio para entrar com os valores de comprimento e largura e depois retorne com o resultado.
+	Resolvido na v√≠deo aula-08
 
-4) FaÁa um Programa que peÁa o raio de um cÌrculo, calcule e mostre sua ·rea.
+4) Fa√ßa um Programa que pe√ßa o raio de um c√≠rculo, calcule e mostre sua √°rea.
+	Resolvido na v√≠deo aula-08
 
-5) FaÁa um Programa que peÁa a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+5) Fa√ßa um Programa que pe√ßa a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+	F√≥rmula: Celsius to Fahrenheit:   ¬∞C √ó 1,8 + 32 = ¬∞F
+			 Fahrenheit to Celsius:   (¬∞F ‚àí 32) / 1,8 = ¬∞
+	Resolvido na v√≠deo aula-09
 
-6) Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fÛrmula: (72.7*altura) ñ 58
-
-7) FaÁa um Programa que pergunte quanto vocÍ ganha por hora e o n˙mero de horas trabalhadas no mÍs. Calcule e mostre o total do seu sal·rio no referido mÍs, sabendo-se que s„o descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faÁa um programa que motre:
-	1 - sal·rio bruto.
+6) Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte f√≥rmula: (72.7*altura) ¬ñ 58
+	Resolvido na v√≠deo aula-09
+	
+7) Fa√ßa um Programa que pergunte quanto voc√™ ganha por hora e o n√∫mero de horas trabalhadas no m√™s. Calcule e mostre o total do seu sal√°rio no referido m√™s, sabendo-se que s√£o descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, fa√ßa um programa que motre:
+	1 - sal√°rio bruto.
 	2 - quanto pagou ao INSS.
 	3- quanto pagou ao sindicato.
-	4 - o sal·rio lÌquido.
+	4 - o sal√°rio l√≠quido.
 
-Calcule os descontos e o sal·rio lÌquido, conforme a tabela abaixo
+Calcule os descontos e o sal√°rio l√≠quido, conforme a tabela abaixo
 
-+ Sal·rio Bruto: R$
++ Sal√°rio Bruto: R$
 - IR (11%): R$
 - INSS (8%): R$
 - Sindicato (5%): R$
-= Sal·rio LÌquido: R$
+= Sal√°rio L√≠quido: R$
 
-8) FaÁa um programa para uma loja de tintas. O programa dever· pedir o tamanho em metros quadrados da ·rea a ser pintada. Considere que a cobertura da tinta È de 1 litro para cada 3 metros quadrados e que a tinta È vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usu·rio a quantidades de latas de tinta a serem compradas e o preÁo total.
+8) Fa√ßa um programa para uma loja de tintas. O programa dever√° pedir o tamanho em metros quadrados da √°rea a ser pintada. Considere que a cobertura da tinta √© de 1 litro para cada 3 metros quadrados e que a tinta √© vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usu√°rio a quantidades de latas de tinta a serem compradas e o pre√ßo total.
 
-9) FaÁa um programa que peÁa o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+9) Fa√ßa um programa que pe√ßa o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
 
-10) PeÁa o usu·rio para informar o valor inicial de um investimento, o tempo da aplicaÁ„o (em anos), a taxa anual (em percentual, exemplo, 5, 8, 12) e o valor dos aportes mensais durante todo o perÌodo do investimento. 
-Calcule o total que ser· recebido pelo investidor ao final da aplicaÁ„o.  Utilize a fÛrmula abaixo:
+10) Pe√ßa o usu√°rio para informar o valor inicial de um investimento, o tempo da aplica√ß√£o (em anos), a taxa anual (em percentual, exemplo, 5, 8, 12) e o valor dos aportes mensais durante todo o per√≠odo do investimento. 
+Calcule o total que ser√° recebido pelo investidor ao final da aplica√ß√£o.  Utilize a f√≥rmula abaixo:
 
 FV = (PV *(1+i)^n) + (( PMT * [(1+i)^n - 1]) / i)
 
-FV = Total a ser recebido no final da aplicaÁ„o
+FV = Total a ser recebido no final da aplica√ß√£o
 PV = Valor inicial do investimento
 PMT = Aportes mensais
 i = Taxa de Juros anual
-n = Tempo da aplicaÁ„o
+n = Tempo da aplica√ß√£o
 
